@@ -1,1 +1,3 @@
-# booking-backen
+# Booking Backend
+
+Complete backend system for appointment booking
